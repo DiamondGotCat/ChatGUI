@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <!-- We only include this to explicitly loosen the CSP of various packager environments. It does not provide any security. -->
   <meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: blob:">
-  <title>ChatGUI3</title>
+  <title>ChatGUI4</title>
   <style>
     body {
       color: #ffffff;
@@ -163,7 +163,7 @@
 
   <div id="loading" class="screen">
     <noscript>Enable JavaScript</noscript>
-    <h1 class="loading-text">日本語化したVar.2が登場！</h1>
+    <h1 class="loading-text">日本語化したVar.4が登場！</h1>
     
     <div class="progress-bar-outer"><div class="progress-bar-inner" id="loading-inner"></div></div>
   </div>
@@ -276,7 +276,7 @@ return new A(B,"base64").toString("binary")}:"object"==typeof t.base64js?functio
       const scaffolding = new Scaffolding.Scaffolding();
       scaffolding.width = 480;
       scaffolding.height = 360;
-      scaffolding.resizeMode = "dynamic-resize";
+      scaffolding.resizeMode = "stretch";
       scaffolding.editableLists = true;
       scaffolding.usePackagedRuntime = true;
       scaffolding.setup();
