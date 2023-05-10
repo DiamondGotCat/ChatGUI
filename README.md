@@ -1,4 +1,4 @@
-# ChatGUI
+# ChatGUI (OSDiamond)
 Chat service
 
 # 日本語
