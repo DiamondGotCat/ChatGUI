@@ -47,4 +47,4 @@ Let's follow the rules for that.
 
 # license
 The license of this software is GNU GPLv3
-If there are any bugs, etc., you can make an issue and I will look at it and fix as much as I can when I can.
+<br>If there are any bugs, etc., you can make an issue and I will look at it and fix as much as I can when I can.
